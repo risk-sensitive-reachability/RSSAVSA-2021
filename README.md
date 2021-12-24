@@ -1,5 +1,5 @@
 # Overview
-Analysis code to generate figures and artifacts presented in Chapman, et al., “Risk-sensitive safety analysis via state-space augmentation,” submitted to IEEE Transactions on Automatic Control, June 2021.
+Analysis code to generate figures and artifacts presented in Chapman, et al., “On Optimizing the Conditional Value-at-Risk of a Maximum Cost for Risk-Averse Safety Analysis,” submitted to IEEE Transactions on Automatic Control, December 2021.
 
 ## Dependencies
 ### Computational Environment
