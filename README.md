@@ -1,5 +1,5 @@
 # Overview
-Analysis code to generate figures and artifacts presented in Chapman, et al., “On Optimizing the Conditional Value-at-Risk of a Maximum Cost for Risk-Averse Safety Analysis,” submitted to IEEE Transactions on Automatic Control, December 2021.
+Analysis code to generate figures and artifacts presented in Chapman, Fauss, and Smith, "On optimizing the Conditional Value-at-Risk of a maximum cost for risk-averse safety analysis," _IEEE Transactions on Automatic Control_, to appear.
 
 ## Dependencies
 ### Computational Environment
